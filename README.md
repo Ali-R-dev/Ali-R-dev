@@ -14,10 +14,9 @@ I'm a passionate Fullstack developer who enjoys coding.
 Feel free to customize the appearance and layout of this README to make it your own!
 
 ## 🚧 Badges
-![Badge 1](https://github.com/users/Ali-R-dev/achievements/pull-shark)
+![Badge 1]([https://github.com/users/Ali-R-dev/achievements/pull-shark](https://github.com/users/Ali-R-dev/achievements/pull-shark))
 
 ## 📫 Contact Me
-- LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
 - Email: aliraza7243@gmail.com
 
 ---
