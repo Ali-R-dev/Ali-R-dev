@@ -4,8 +4,7 @@
 I'm a passionate Fullstack developer who enjoys coding.
 
 ## 🛠️ Skills and Technologies
-- Programming Languages: HTML, CSS, JS, C#, SQL, Mongodb
-- Frameworks: React, .Net
+- Programming Languages: HTML, CSS, JS
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali-R-dev&show_icons=true&count_private=true&hide=contribs,prs)
